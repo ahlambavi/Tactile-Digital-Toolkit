@@ -1,1 +1,1 @@
-# This is a toolkit desogn for Blind and Partially sighted 
+# This is a toolkit design for Blind and Partially sighted 
